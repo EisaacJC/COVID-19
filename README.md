@@ -1,3 +1,4 @@
+![Línea del tiempo eventos significativos COVID19](https://raw.githubusercontent.com/EisaacJC/COVID-19/master/linea%20del%20tiempo%20covid.png)
 # COVID-19 DATABASE
 La base de datos contine las columnas:
 ### Fecha:
